@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/dhananjayjoshi0333/Project_B/_apis/build/status/dpjoshi.pipelines-java?branchName=master)](https://dev.azure.com/dhananjayjoshi0333/Project_B/_build/latest?definitionId=2&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
